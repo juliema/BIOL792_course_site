@@ -38,7 +38,7 @@ start working more confidently with big data using Unix and Python. We will emph
   Mac computers already have machines running Unix and
   are ready to go. Students without Mac computers will have the option of checking out a Mac laptop for the semester, or will need to figure out how to install Linux or a Linux emulator on their computer. 
 
-* **Supplemental primers, readings and assignments** will be announced during the class and provided on the [course github page](https://github.com/tparchman/BIOL792).
+* **Supplemental primers, readings and assignments** will be announced during the class and provided on the [course github page](https://github.com/tparchman/BIOL792_course_site).
 
 ## Course Format
 We will meet twice a week (Tues/Thurs 6:00-7:15) but I typically reserve two hours of time during each window to allow discusion/troubleshooting on coding related to assignments/projects. At the beginning of each class, I will introduce new concepts and material that will form the basis of the exercises, assignments, or projects we will work through that week. We will cover questions regarding previous material, and then you will spend at least half of each class working independently, or in small groups, on writing code. All students should come to class having thoroughly read the assigned material and prepared for discussion. As the class will be remote this semester, we will hold our weekly meetings at prescheduled zoom sessions [zoom invite](https://unr.zoom.us/j/92025861279)
