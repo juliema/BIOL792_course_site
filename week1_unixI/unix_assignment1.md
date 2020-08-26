@@ -10,7 +10,7 @@ While getting used to the idea of these commands, it is useful to note that the 
     ls          mkdir           cd          pwd
     cp          mv              rm          rmdir 		
     cat         less            head        tail
-    grep        wc              uniq		top
+    grep        wc              uniq	    top
 
 
 
@@ -21,7 +21,7 @@ For example:
 
     $ man pwd
 
-This will tell you what `pwd` does, command line options, etc. Here you will see the information on `pwd` displayed in a text viewer called `less`. You can move forward one page at a time with the space bar. `man` pages are always opened with `less`, which will be among your most commonly used commands
+This will tell you what `pwd` does, command line options, etc. Here you will see the information on `pwd` displayed in a text viewer called `less`. You can move forward one page at a time with the space bar. `man` pages are always opened with `less`, a command you will use heavily.
 
 
 
@@ -29,7 +29,7 @@ Next, look at:
 
     $ man wc
 
-You will see that `wc` in its simplest invocation counts words characters and lines, but command line options allow more. Want to know how many lines of data are in a giant file? 
+You will see that `wc` in its simplest invocation counts words characters and lines, but command line options allow more. Want to know how many lines of data are in a large file? 
 
     $ wc -l [name_of_file]
 Try:
@@ -116,7 +116,7 @@ Open another terminal window (`command n`) and use `less` to look at the top of 
 
 Make a directory in your home directory (e.g., /Users/parchman/) entitled BIOL792.
 
-Make a file called unix1_log.txt in the BIOL792 directory. When you are done with this assignment, record everything you did from the command line in this log file (learn to use the touch command to make a new file).
+Make a file called unix1_log.txt in the BIOL792 directory. When you are done with this assignment, record everything you did from the command line in this log file (learn to use `touch` to make a new file).
 
 Inside this directory, make three other directories named:
 - data
@@ -144,11 +144,13 @@ Try some other useful commands:
     $ cal
 
 
-## A useful beginning Unix tutorial
+## Useful introductory Unix tutorials
 
 Lastly for our first week, work through the first two sections of this tutorial to reiterate your introduction.
 
 http://www.ee.surrey.ac.uk/Teaching/Unix/index.html
 
-Start at the beginning by clicking on “Introduction to the UNIX Operating System.” Then work through the first two sections of the tutorial, creating and manipulating files as directed. At the beginning of section 2, you’ll see that a file (science.txt) is referenced which you will not find on your computer. You can find this file on the course website under “data sets and problem descriptions”.
-You can stop with section four this week. Once you have worked through those examples, proceed through the rest of this worksheet.
+Start at the beginning by clicking on “Introduction to the UNIX Operating System.” Then work through the first two sections of the tutorial, creating and manipulating files as directed. At the beginning of section 2, you’ll see that a file (science.txt) that you can find in the "week1_unixI" page on the course website.
+You can stop with section three this week
+
+Also, please have a look at the excellent [tutorial from software carpentry](http://swcarpentry.github.io/shell-novice/). For this week and next, follow steps 1 through 3.
