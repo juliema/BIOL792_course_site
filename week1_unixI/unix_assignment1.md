@@ -139,7 +139,7 @@ Try some other useful commands:
     $ cal
 
 
-## Useful introductory Unix tutorials
+## Unix tutorials: COMPLETE THE FIRST 2-3 sections of each of the below tutorials. This will help you get up to speed and or solidify introductory Unix commands.
 
 Lastly for our first week, work through the first two sections of this tutorial to reiterate your introduction.
 
