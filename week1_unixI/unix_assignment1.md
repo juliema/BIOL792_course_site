@@ -31,7 +31,7 @@ Next, look at:
 
 You will see that `wc` in its simplest invocation counts words characters and lines, but command line options allow more. Want to know how many lines of data are in a large file? 
 
-    $ wc -l [name_of_file]
+    $ wc -l name_of_file.txt
 Try:
 
     $ man grep
@@ -76,11 +76,6 @@ What do you think the following command will do? Try it and find out:
 
 You have already seen the use of `ls -l`. You might have noticed that command reported file sizes in units that were not easy to interpret. 
 
-Notice that because we have changed your .bash_profile, typing ll now does the same thing as `ls –l`. This means you never need to type `ls –l` again, simply type `ll`.
-
-Now try the following, and notice how the output is different (the `h` here stands for human):
-
-    $ ll –h
 
 Take some time to move around other directories, listing their content and moving to more distant directories. Familiarize yourself with how directories are listed and organized.
 
