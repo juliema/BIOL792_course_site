@@ -73,9 +73,9 @@ If you dont have .bash_profile or .profile, lets make, and open with TextWrangle
     $ touch .bash_profile
     $ open -a TextWrangler .bash_profile
 
-Copy and paste the alias settings ("helpful alias settings") above into .profile, and save. Then, 
+Copy and paste the alias settings ("helpful alias settings") above into .bash_profile, and save. Then, 
 
-    $ source profile
+    $ source .bash_profile
 
 Once you quit and restart your terminal app, your new alias settings should be working, but test this out to be sure. Make a test.txt file, and use `rm` to remove it. If things are correct, you should be prompted by the terminal with "remove test.txt?". Type Y to remove, N to leave alone. Note, these settings will protect from terrible very bad accidents.
 
