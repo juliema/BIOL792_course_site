@@ -49,6 +49,7 @@ You can can customize the way a command works from shell by creating an **alias*
 When you do this, it will only work from within a single terminal session. Once you get more comfortable in Unix, you will likely want to customize the behavior of your shell uniformly. This can easily be done by modifying a file, .profile or .bash_profile, that resides in your home directory. Id suggest the following alias's, or atleast this is what I use.
 
     # helpful alias collection
+    alias python='python3'
     alias ll="ls -laF"
     alias ls="ls -F"
     alias rm="rm -i"
