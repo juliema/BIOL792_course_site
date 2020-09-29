@@ -162,7 +162,7 @@ Strings can be repeated with `*`:
 
 `str.lower()` will convert string to lowercase:
 
-    Seq_one_lower = Seq_one_big.upper()
+    Seq_one_lower = Seq_one_big.lower()
 
 `str.replace()` will replace a specified character with a different specified character:
 
