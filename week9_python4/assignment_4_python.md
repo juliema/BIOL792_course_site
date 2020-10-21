@@ -1,4 +1,4 @@
-# Python assignment 3, Data Science for Biology
+# Python assignment 4, Data Science for Biology
 ## Topics to cover
 - Working with files: Input/Output
 - `for` loops, processing files one line at a time.
